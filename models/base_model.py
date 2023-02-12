@@ -6,9 +6,6 @@ class Base:
     """
     def __init__(self):
         """Initializes a new Object.
-        Args:
-            width (int): The width of the rectangle.
-            height (int): The height of the rectangle.
+        
         """
-        #self.__width = width
-        #self.__height = height
+        
