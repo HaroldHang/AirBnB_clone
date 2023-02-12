@@ -14,9 +14,7 @@ After starting the shell type the command `help` to see the documentation
 ### Examples
 $ echo "help" | ./console.py
 (hbnb)
-
 Documented commands (type help <topic>):
-========================================
 EOF  help  quit
 (hbnb)
 
