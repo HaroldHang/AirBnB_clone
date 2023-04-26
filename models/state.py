@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-""" State Module for HBNB project """
-import models
+"""Defines the State class."""
 from models.base_model import BaseModel
-from models.city import City
-from os import getenv
 
 
 class State(BaseModel):
-    """ State class """
+    """Represent a state.
+    Attributes:
+        name (str): The name of the state.
+    """
+
     name = ""
-    cities = ""
